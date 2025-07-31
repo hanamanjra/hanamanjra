@@ -12,10 +12,9 @@ I'm a data analyst and upcoming data scientist with a strong foundation in psych
 
 ## 🛠️ Skills
 
-- **Programming:** Python, R, SQL
+- **Programming:** Python, R, SQL, Tableau, Power BI
 - **Data Science:** Inferential statistics, regression analysis, machine learning
 - **UX Research:** User studies, experimental design, data-driven insights
-- **Visualization:** Matplotlib, Seaborn, Pandas, Numpy
 
 ## 🚀 Projects
 
@@ -25,16 +24,6 @@ I'm a data analyst and upcoming data scientist with a strong foundation in psych
 - **Airbnb Investment Analysis:** Data-driven recommendations for investment decisions
 - **Retro Snake Game:** Built a classic snake game from scratch
 
-## 🌱 Currently Learning
-
-- Bayesian statistics
-- Advanced machine learning methods
-- Deeper dives into UX and behavioral data
-
-## 📫 How to reach me
-
-- [LinkedIn](https://www.linkedin.com/in/hanamanjra) *(update with your actual profile link)*
-- Email: *your.email@example.com*  *(update with your email)*
 
 ---
 
