@@ -1,22 +1,22 @@
 
-## Hi there 👋, I'm Hana manjra
+## Hi there, I'm Hana manjra
 
 I'm a data analyst and upcoming data scientist with a strong foundation in psychology and behavioral science from the London School of Economics. My expertise and interests lie at the intersection of data, human behavior, and technology.
 
-## 👩‍💻 About Me
+## About Me
 
 - 🎓 Graduate of LSE in Psychology & Behavioral Science  
 - 🔬 Passionate about UX research, user behavior, and human-technology interaction  
 - 🤖 Interested in propensity modeling, A/B testing, randomized control trials, and machine learning  
 - 📈 Keen to explore Bayesian statistics and advanced analytics
 
-## 🛠️ Skills
+## Skills
 
 - **Programming:** Python, R, SQL, Tableau, Power BI
 - **Data Science:** Inferential statistics, regression analysis, machine learning
 - **UX Research:** User studies, experimental design, data-driven insights
 
-## 🚀 Projects
+## Projects
 
 - **Propensity Model:** Developed and deployed using MLflow and FastAPI
 - **Churn Prediction:** Classification model with full deployment pipeline
